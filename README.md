@@ -1,1 +1,1 @@
-a production ready server including logger
+A production ready server including logger, sockets.io and Express.
